@@ -41,5 +41,7 @@ Identifies market trends and potential opportunities, aiding in strategic planni
 User-Friendly Interface:
 Designed with usability in mind, featuring intuitive navigation and interactive elements for an engaging user experience.
 
+![Image](https://github.com/user-attachments/assets/6d62e132-1763-4993-90e1-596d9ce2c267)
+
 
 This dashboard is an essential tool for anyone involved in the real estate market, from individual buyers and sellers to large-scale investors and developers. By leveraging the insights provided, users can better understand market dynamics, optimize their strategies, and make data-driven decisions.
